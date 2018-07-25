@@ -1,6 +1,0 @@
-{ 
-    "token"  : "tokenhere",
-    "prefix" : "+"
-    "admin"  : "adminuserID",
-    "installdir" : "path\\to\\installdir"
-  }
